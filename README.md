@@ -1,4 +1,4 @@
-# Conept-Tutorial-Redone
+# Conept-Tutorials-Redone
 ## Description
 This repository contains my implementation of various AI concepts from online tutorials.
 ## Content
